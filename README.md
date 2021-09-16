@@ -1,6 +1,6 @@
 # Sign up form
 
-- Esse projeto é uma página de cadastro no formato One Page, responsiva. Inspirado pela desenvolvedora Giovanna Moeller, do canal <a href="https://www.youtube.com/c/GirlCoding">Girl Coding</a>.
+- Esse projeto é uma página de cadastro responsiva, inspirada pela desenvolvedora Giovanna Moeller, do canal <a href="https://www.youtube.com/c/GirlCoding">Girl Coding</a>.
 
 #### :computer: Web
 
