@@ -9,6 +9,7 @@
 #### 📱 Mobile
 
 <img src="assets/Mobile.png">
+
 ### :gear: Tecnologias:
 Nesse projeto foram usados as seguintes tecnologias:
 
